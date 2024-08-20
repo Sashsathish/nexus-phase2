@@ -1,11 +1,11 @@
-<<<<<<< HEAD
+HEAD
 <div align="center">
-	<img height="250em" src="https://raw.githubusercontent.com/nexus/nexus/main/public/nexus_circle_logo.png" alt="nexus" />
+	<img height="250em" src="https://raw.githubusercontent.com/boxode/boxode/main/public/boxode_circle_logo.png" alt="boxode" />
 	<h3>A better way to build software</h3>
-	<a href="https://nexus.org/templates">Templates</a> ◻ <a href="https://nexus.org/oss">Open Source</a> ◻ <a href="https://nexus.org/careers">Careers</a>
+	<a href="https://boxode.org/templates">Templates</a> ◻ <a href="https://boxode.org/oss">Open Source</a> ◻ <a href="https://boxode.org/careers">Careers</a>
 </div>
 
-## nexus ◻ 
+## boxode ◻ 
 
 Our company is dedicated to creating innovative digital solutions for various business problems. We strive to provide effective, efficient and agile solutions that allow to achieve the objectives and improve the productivity of small, medium and large companies.
 
@@ -20,16 +20,16 @@ In short, our company is dedicated to creating innovative digital solutions that
 
 ## Shortcuts
 
-- nexus.org[**/fb**](https://nexus.org/fb) - Facebook
-- nexus.org[**/tw**](https://nexus.org/tw) - Twitter
-- nexus.org[**/ig**](https://nexus.org/ig) - Instagram
-- nexus.org[**/gh**](https://nexus.org/gh) - GitHub
-- nexus.org[**/li**](https://nexus.org/li) - LinkedIn
+- boxode.org[**/fb**](https://boxode.org/fb) - Facebook
+- boxode.org[**/tw**](https://boxode.org/tw) - Twitter
+- boxode.org[**/ig**](https://boxode.org/ig) - Instagram
+- boxode.org[**/gh**](https://boxode.org/gh) - GitHub
+- boxode.org[**/li**](https://boxode.org/li) - LinkedIn
 
 ## Reference
-- <a href="https://github.com/nexus/.github/blob/main/CODE_OF_CONDUCT_EN.md">Code of Conduct</a>
+- <a href="https://github.com/boxode/.github/blob/main/CODE_OF_CONDUCT_EN.md">Code of Conduct</a>
 - <a href="">Contributing Guidelines</a>
-- <a href="https://github.com/nexus/nexus/blob/main/LICENSE">Apache 2.0 License</a>
-=======
-# nexus-phase2
+- <a href="https://github.com/boxode/boxode/blob/main/LICENSE">Apache 2.0 License</a>
+
+# boxode-phase2
 >>>>>>> origin/main

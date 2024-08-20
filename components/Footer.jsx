@@ -35,7 +35,7 @@ export default function FooterOSS() {
           <ul className='text-gray-100/80 text-[11px]'>
             <li className='mb-4 font-[GilroyRegular]'>
               <Link
-                href='https://www.linkedin.com/company/nexus-software-pvt-ltd/'
+                href='https://www.linkedin.com/company/boxode-software-pvt-ltd/'
                 target='_blank'
                 className='hover:underline'
               >
@@ -54,7 +54,7 @@ export default function FooterOSS() {
             </li>
             <li className='mb-4 font-[GilroyRegular]'>
               <Link
-                href='https://www.facebook.com/people/Nexus-Info/61560989377318/?mibextid=LQQJ4d&rdid=mmdnd3YLlI51gBEg&share_url=https%253A%252F%252Fwww.facebook.com%252Fshare%252FchBu6tfu8D9P88vq%252F%253Fmibextid%253DLQQJ4d'
+                href='https://www.facebook.com/people/boxode-Info/61560989377318/?mibextid=LQQJ4d&rdid=mmdnd3YLlI51gBEg&share_url=https%253A%252F%252Fwww.facebook.com%252Fshare%252FchBu6tfu8D9P88vq%252F%253Fmibextid%253DLQQJ4d'
                 target='_blank'
                 rel='noopener noreferrer'
                 className='hover:underline'
@@ -64,7 +64,7 @@ export default function FooterOSS() {
             </li>
             <li className='mb-4 font-[GilroyRegular]'>
               <Link
-                href='https://www.instagram.com/nexusinfo.in/'
+                href='https://www.instagram.com/boxodeinfo.in/'
                 target='_blank'
                 rel='noopener noreferrer'
                 className='hover:underline'
@@ -96,7 +96,7 @@ export default function FooterOSS() {
             </li>
             <li className='mb-4 font-[GilroyRegular]'>
               <Link
-                href='https://github.com/nexus'
+                href='https://github.com/boxode'
                 target='_blank'
                 rel='noopener noreferrer'
                 className='hover:underline'
@@ -126,7 +126,7 @@ export default function FooterOSS() {
             </li>
             <li className='mb-4 font-[GilroyRegular]'>
               <Link href='/about' className='hover:underline'>
-                {t('Aboutnexus')}
+                {t('Aboutboxode')}
               </Link>
             </li>
             <li className='mb-4 font-[GilroyRegular]'>
@@ -191,7 +191,7 @@ export default function FooterOSS() {
             srcSet='/svg/plex-svgrepo-com.svg'
           />
           <img
-            alt='nexus Logo'
+            alt='boxode Logo'
             src='/svg/plex-svgrepo-com.svg'
             width='100'
             height='40'
@@ -229,7 +229,7 @@ export default function FooterOSS() {
             {t('SYE')}
           </Link>
           <span className='text-[11px] text-gray-100/80 sm:text-center'>
-            © Nexus, Ltd. <span id='year'>2024</span>
+            © boxode, Ltd. <span id='year'>2024</span>
           </span>
         </div>
       </div>

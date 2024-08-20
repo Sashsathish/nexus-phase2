@@ -152,17 +152,17 @@ export const Contact = () => {
             {t('Contact.contact-info1')} <br />{' '}
             <span>
               <a
-                href='mailto:nexusinfo.in'
+                href='mailto:boxodeinfo.in'
                 className='underline decoration-gray-500/50 hover:decoration-white hover:text-white transition duration-200 ease-in-out'
               >
-                nexusinfo.in
+                boxodeinfo.in
               </a>
               &nbsp; or &nbsp;
               <a
-                href='mailto:info.nexusintern@gmail.com'
+                href='mailto:info.boxodeintern@gmail.com'
                 className='underline decoration-gray-500/50 hover:decoration-white hover:text-white transition duration-200 ease-in-out'
               >
-                nexusinfo@gmail.com
+                boxodeinfo@gmail.com
               </a>
             </span>
             &nbsp; {t('Contact.contact-info2')}

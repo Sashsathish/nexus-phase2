@@ -26,7 +26,7 @@ export default function Header() {
                 srcSet='/svg/plex-svgrepo-com.svg'
               />
               <img
-                alt='nexus Logo'
+                alt='boxode Logo'
                 src='/svg/plex-svgrepo-com.svg'
                 width='100'
                 height='40'

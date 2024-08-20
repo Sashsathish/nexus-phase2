@@ -11,9 +11,9 @@
     "subtitle1": "Let your ideas flow.",
     "subtitle2": "We make them come true.",
     "Services": {
-      "square": "Explore the Nexus way",
+      "square": "Explore the boxode way",
       "title": "Services",
-      "subtitle": "At nexus our main objective is to develop quality products and above all that adapt to your needs.",
+      "subtitle": "At Boxode our main objective is to develop quality products and above all that adapt to your needs.",
       "sd": "Software Development",
       "sd-description": "We develop scalable solutions for multidisciplinary platforms with the newest technological trends.",
       "wd": "Web Development",
@@ -55,9 +55,9 @@
     "OSSC": "Contribution",
     "OSSCO": "Code of Conduct",
     "Careers": "Careers",
-    "Aboutnexus": "About nexus",
-    "PrivacyAB": "Privacy at nexus",
-    "ContactB": "Contact nexus",
+    "AboutBoxode": "About Boxode",
+    "PrivacyAB": "Privacy at Boxode",
+    "ContactB": "Contact Boxode",
     "Sitemap": "Sitemap",
     "PrivacyS": "Privacy Statement",
     "Trademarks": "Trademarks",
@@ -69,8 +69,8 @@
     "Projects": {
       "title": "Projects"
     },
-    "nexusCommunity": {
-      "header": "nexus Community",
+    "BoxodeCommunity": {
+      "header": "Boxode Community",
       "title": "Get Involved",
       "description": "Together we are building amazing things and we welcome everyone to be able to participate in OSS projects. It is an exciting time to use technology to create new development tools that facilitate work, applications, services, etc.",
       "button1": "Happening Now",

@@ -5,7 +5,7 @@ export default function Hero() {
     <section className={styles.CEO}>
       <h1 className={styles.titleCEO}>Chief Executive Officer</h1>
       <p className='text-gray-500 font-[GilroyRegular] text-lg md:text-2xl text-center px-16'>
-        Find photos, biographies, and speech transcripts of Nexus executives
+        Find photos, biographies, and speech transcripts of boxode executives
         and board of directors members.
       </p>
     </section>

@@ -17,20 +17,20 @@ export default function Verified() {
       </p>
       <div className='flex md:justify-around flex-col md:flex-row select-none'>
         <Link
-          href='https://nexus.org/gh'
+          href='https://boxode.org/gh'
           target='_blank'
           className='flex md:items-center md:justify-center mt-4 ml-4 md:ml-0'
         >
           <Image
             className='rounded-full border border-gray-900'
-            src='/nexus_circle_logo.png'
-            alt='nexus'
+            src='/boxode_circle_logo.png'
+            alt='boxode'
             width={80}
             height={80}
           />
           <div className='flex ml-4 flex-col'>
             <h4 className='text-white flex font-[GilroyBold]'>
-              nexus Corporation{' '}
+              boxode Corporation{' '}
               <Tooltip content='Verified Entity'>
                 <Image
                   className='ml-2 hover:scale-105 transition'
@@ -42,7 +42,7 @@ export default function Verified() {
               </Tooltip>
             </h4>
             <p className='text-gray-400 text-sm font-[GilroyRegular]'>
-              github.com/nexus
+              github.com/boxode
             </p>
           </div>
         </Link>
@@ -54,7 +54,7 @@ export default function Verified() {
           <Image
             className='rounded-full border border-gray-900'
             src='/FH.png'
-            alt='nexus'
+            alt='boxode'
             width={80}
             height={80}
           />
@@ -84,7 +84,7 @@ export default function Verified() {
           <Image
             className='rounded-full border border-gray-900 grayscale bg-[#141414]'
             src='/fdlcz-logo.png'
-            alt='nexus'
+            alt='boxode'
             width={80}
             height={80}
           />
@@ -114,7 +114,7 @@ export default function Verified() {
           <Image
             className='rounded-full border border-gray-900 grayscale'
             src='/spartan-logo.png'
-            alt='nexus'
+            alt='boxode'
             width={80}
             height={80}
           />
