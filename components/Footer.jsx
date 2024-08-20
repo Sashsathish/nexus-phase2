@@ -35,7 +35,7 @@ export default function FooterOSS() {
           <ul className='text-gray-100/80 text-[11px]'>
             <li className='mb-4 font-[GilroyRegular]'>
               <Link
-                href='https://www.linkedin.com/company/boxode-software-pvt-ltd/'
+                href='https://www.linkedin.com/company/nexus-software-pvt-ltd/'
                 target='_blank'
                 className='hover:underline'
               >
@@ -54,7 +54,7 @@ export default function FooterOSS() {
             </li>
             <li className='mb-4 font-[GilroyRegular]'>
               <Link
-                href='https://www.facebook.com/people/boxode-Info/61560989377318/?mibextid=LQQJ4d&rdid=mmdnd3YLlI51gBEg&share_url=https%253A%252F%252Fwww.facebook.com%252Fshare%252FchBu6tfu8D9P88vq%252F%253Fmibextid%253DLQQJ4d'
+                href='https://www.facebook.com/profile.php?id=61560989377318&mibextid=LQQJ4d&rdid=hV6x2pSHPUAYjGF1&share_url=https%3A%2F%2Fwww.facebook.com%2Fshare%2FchBu6tfu8D9P88vq%2F%3Fmibextid%3DLQQJ4d'
                 target='_blank'
                 rel='noopener noreferrer'
                 className='hover:underline'
@@ -64,7 +64,7 @@ export default function FooterOSS() {
             </li>
             <li className='mb-4 font-[GilroyRegular]'>
               <Link
-                href='https://www.instagram.com/boxodeinfo.in/'
+                href='https://www.instagram.com/nexusinfo.in/'
                 target='_blank'
                 rel='noopener noreferrer'
                 className='hover:underline'
@@ -94,16 +94,7 @@ export default function FooterOSS() {
                 {t('OSSCO')}
               </Link>
             </li>
-            <li className='mb-4 font-[GilroyRegular]'>
-              <Link
-                href='https://github.com/boxode'
-                target='_blank'
-                rel='noopener noreferrer'
-                className='hover:underline'
-              >
-                Github
-              </Link>
-            </li>
+            
           </ul>
         </div>
         <div>
@@ -126,12 +117,12 @@ export default function FooterOSS() {
             </li>
             <li className='mb-4 font-[GilroyRegular]'>
               <Link href='/about' className='hover:underline'>
-                {t('Aboutboxode')}
+                {t('About')}
               </Link>
             </li>
             <li className='mb-4 font-[GilroyRegular]'>
               <Link href='/privacy' className='hover:underline'>
-                {t('PrivacyAB')}
+                {t('Privacy')}
               </Link>
             </li>
             <li className='mb-4 font-[GilroyRegular] flex flex-row items-center gap-1'>
@@ -229,7 +220,7 @@ export default function FooterOSS() {
             {t('SYE')}
           </Link>
           <span className='text-[11px] text-gray-100/80 sm:text-center'>
-            © boxode, Ltd. <span id='year'>2024</span>
+            © nexus, Ltd. <span id='year'>2024</span>
           </span>
         </div>
       </div>
