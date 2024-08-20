@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <div align="center">
 	<img height="250em" src="https://raw.githubusercontent.com/nexus/nexus/main/public/nexus_circle_logo.png" alt="nexus" />
 	<h3>A better way to build software</h3>
@@ -29,3 +30,6 @@ In short, our company is dedicated to creating innovative digital solutions that
 - <a href="https://github.com/nexus/.github/blob/main/CODE_OF_CONDUCT_EN.md">Code of Conduct</a>
 - <a href="">Contributing Guidelines</a>
 - <a href="https://github.com/nexus/nexus/blob/main/LICENSE">Apache 2.0 License</a>
+=======
+# nexus-phase2
+>>>>>>> origin/main
