@@ -124,7 +124,7 @@ export const Contact = () => {
               </div>
               <div className='ml-2'>
                 <ReCAPTCHA
-                  sitekey={process.env.NEXT_PUBLIC_CAPTCHA_APP_KEY}
+                  sitekey= "6Le9UyoqAAAAAGH2mHcz2POPFrTgoVkVu3oASVxJ"
                   onChange={onChange}
                   theme='dark'
                   ref={captchaRef}
@@ -152,17 +152,17 @@ export const Contact = () => {
             {t('Contact.contact-info1')} <br />{' '}
             <span>
               <a
-                href='mailto:contact@boxode.org'
+                href='mailto:nexusinfo.in'
                 className='underline decoration-gray-500/50 hover:decoration-white hover:text-white transition duration-200 ease-in-out'
               >
-                contacto@boxode.org
+                nexusinfo.in
               </a>
               &nbsp; or &nbsp;
               <a
-                href='mailto:boxodehq@gmail.com'
+                href='mailto:info.nexusintern@gmail.com'
                 className='underline decoration-gray-500/50 hover:decoration-white hover:text-white transition duration-200 ease-in-out'
               >
-                boxodehq@gmail.com
+                nexusinfo@gmail.com
               </a>
             </span>
             &nbsp; {t('Contact.contact-info2')}

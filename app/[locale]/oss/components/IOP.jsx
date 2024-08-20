@@ -13,20 +13,20 @@ export default function Gip() {
             <article className='relative z-10 px-4 sm:px-6 sm pb-10 md:pb-0 pt-10 md:pt-0 lg:mb-0 lg:px-0 lg:text-left lg:flex col-span-6 border-t-2 border-b-2 lg:border-r-2 border-gray-800/30 get-improve'>
               <div className='lg:py-24 px-4 sm:px-16'>
                 <p className='text-white lg:text-left font-[GilroyRegular] text-lg'>
-                  {t('BoxodeCommunity.header')}
+                  {t('nexusCommunity.header')}
                 </p>
                 <h4 className='mt-3 font-[GilroyBold] sm:mx-auto lg:mx-0 max-w-lg lg:text-left text-2xl lg:text-4xl text-white sm:mt-5'>
-                  {t('BoxodeCommunity.title')}
+                  {t('nexusCommunity.title')}
                 </h4>
                 <p className='mt-3 font-[GilroyRegular] sm:mx-auto lg:mx-0 max-w-lg lg:text-left text-base sm:text-lg text-neutral-200/80 sm:mt-5'>
-                  {t('BoxodeCommunity.description')}
+                  {t('nexusCommunity.description')}
                 </p>
                 <div className='pt-4 flex flex-col'>
                   <Link
-                    href='https://github.com/Boxode'
+                    href='https://github.com/nexus'
                     className='text-white link link--arrowed inline-flex font-[GilroyRegular] text-base sm:text-lg'
                   >
-                    {t('BoxodeCommunity.button1')}{' '}
+                    {t('nexusCommunity.button1')}{' '}
                     <svg
                       className='arrow-icon'
                       xmlns='http://www.w3.org/2000/svg'
@@ -59,7 +59,7 @@ export default function Gip() {
                     href='oss/features-projects'
                     className='text-white link link--arrowed inline-flex font-[GilroyRegular] text-base sm:text-lg pt-2'
                   >
-                    {t('BoxodeCommunity.button2')}{' '}
+                    {t('nexusCommunity.button2')}{' '}
                     <svg
                       className='arrow-icon'
                       xmlns='http://www.w3.org/2000/svg'
@@ -92,7 +92,7 @@ export default function Gip() {
                     href='oss/contributing'
                     className='text-white link link--arrowed inline-flex font-[GilroyRegular] text-base sm:text-lg pt-4'
                   >
-                    {t('BoxodeCommunity.button3')}{' '}
+                    {t('nexusCommunity.button3')}{' '}
                     <svg
                       className='arrow-icon'
                       xmlns='http://www.w3.org/2000/svg'

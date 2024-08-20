@@ -27,14 +27,14 @@ export default async function RootLayout({ children, params: { locale } }) {
         <meta name='viewport' content='width=device-width, initial-scale=1' />
         <meta
           name='keywords'
-          content='boxode, boxode.org, boxode open source software, boxode oss, boxode open source, boxode software, software, software development, software development company, software development services, software development company in mexico, web development, web development company, uiux development, uiux development company, uiux development company in mexico, uiux development services, uiux development services in mexico'
+          content='nexus, nexus.org, nexus open source software, nexus oss, nexus open source, nexus software, software, software development, software development company, software development services, software development company in mexico, web development, web development company, uiux development, uiux development company, uiux development company in mexico, uiux development services, uiux development services in mexico'
         />
         <link
           rel='shortcut icon'
           href='/favicon/favicon.ico'
           type='image/x-icon'
         />
-        <title>Boxode - Open Source Software</title>
+        <title>Nexus - Open Source Software</title>
         <meta
           name='description'
           content='Our commitment to maintain a creative and passionate community in the world of Open Source Software continues to be one of our main goals, because most of us are due our open source source products.'
@@ -64,24 +64,24 @@ export default async function RootLayout({ children, params: { locale } }) {
         />
         <meta name='msapplication-TileColor' content='#ffffff' />
         <meta name='theme-color' content='#ffffff' />
-        <link rel='canonical' href='https://boxode.org/oss' />
+        <link rel='canonical' href='https://nexus.org/oss' />
         <meta
           name='apple-mobile-web-app-title'
-          content='Boxode - Open Source Software'
+          content='Nexus - Open Source Software'
         />
-        <meta name='application-name' content='Boxode' />
-        <meta property='og:url' content='https://boxode.org/oss' />
+        <meta name='application-name' content='Nexus' />
+        <meta property='og:url' content='https://nexus.org/oss' />
         <meta property='og:type' content='website' />
-        <meta property='og:title' content='Boxode - Open Source Software' />
+        <meta property='og:title' content='nexus - Open Source Software' />
         <meta
           property='og:description'
           content='Our commitment to maintain a creative and passionate community in the world of Open Source Software continues to be one of our main goals, because most of us are due our open source source products.'
         />
         <meta property='og:locate' content='es_MX' />
-        <meta property='og:site_name' content='Boxode - Open Source Software' />
+        <meta property='og:site_name' content='nexus - Open Source Software' />
         <meta name='twitter:card' content='summary_large_image' />
-        <meta name='twitter:site' content='@BoxodeHQ' />
-        <meta name='twitter:title' content='Boxode' />
+        <meta name='twitter:site' content='@nexusHQ' />
+        <meta name='twitter:title' content='nexus' />
         <meta
           name='twitter:description'
           content='Our commitment to maintain a creative and passionate community in the world of Open Source Software continues to be one of our main goals, because most of us are due our open source source products.'

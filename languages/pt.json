@@ -11,9 +11,9 @@
     "subtitle1": "Deixe suas ideias fluírem.",
     "subtitle2": "Nós os tornamos realidade.",
     "Services": {
-      "square": "Explore o caminho de Boxode",
+      "square": "Explore o caminho de nexus",
       "title": "Serviços",
-      "subtitle": "Na Boxode, nosso principal objetivo é desenvolver produtos de qualidade e, acima de tudo, que se adaptem às suas necessidades.",
+      "subtitle": "Na nexus, nosso principal objetivo é desenvolver produtos de qualidade e, acima de tudo, que se adaptem às suas necessidades.",
       "sd": "Desenvolvimento de software",
       "sd-description": "Desenvolvemos soluções escalonáveis para plataformas multidisciplinares com as mais novas tendências tecnológicas.",
       "wd": "Desenvolvimento Web",
@@ -55,9 +55,9 @@
     "OSSC": "Contribuição",
     "OSSCO": "Código de Conduta",
     "Careers": "Carreiras",
-    "AboutBoxode": "Sobre o Boxode",
-    "PrivacyAB": "Privacidade na Boxode",
-    "ContactB": "Contato Boxode",
+    "Aboutnexus": "Sobre o nexus",
+    "PrivacyAB": "Privacidade na nexus",
+    "ContactB": "Contato nexus",
     "Sitemap": "Mapa do site",
     "PrivacyS": "Declaração de privacidade",
     "Trademarks": "Marcas registradas",
@@ -71,8 +71,8 @@
       "subtitle1": "Thanks for being interested in knowing what our current projects are, but we are still working to have them in this section :)",
       "subtitle2": "Little by little we will be placing them, so stay tuned!"
     },
-    "BoxodeCommunity": {
-      "header": "Boxode Community",
+    "nexusCommunity": {
+      "header": "nexus Community",
       "title": "Get Involved",
       "description": "Together we are building amazing things and we welcome everyone to be able to participate in OSS projects. It is an exciting time to use technology to create new development tools that facilitate work, applications, services, etc.",
       "button1": "Happening Now",

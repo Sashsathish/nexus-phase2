@@ -4,7 +4,7 @@ import useSWR from 'swr'
 const fetcher = (url) => fetch(url).then((res) => res.json())
 
 export default function Windui() {
-  const { data } = useSWR('https://api.github.com/repos/Boxode/windui', fetcher)
+  const { data } = useSWR('https://api.github.com/repos/nexus/windui', fetcher)
   return (
     <div className='max-w-xs grayscale hover:grayscale-0 transition-all duration-200 border hover:bg-gradient-to-tl from-white/[0.08] to-black border-gray-800 rounded-xl shadow hover:border-gray-300'>
       <span className='bg-[url(/svg/pattern.svg)] bg-no-repeat bg-cover select-none flex items-center justify-center h-32 ease-in-out border-b border-gray-800 rounded-t-lg'>
@@ -36,7 +36,7 @@ export default function Windui() {
         </div>
         <div className='flex gap-4'>
           <a
-            href='https://github.com/Boxode/windui'
+            href='https://github.com/nexus/windui'
             target='_blank'
             rel='noopener noreferrer'
             className='duration-150 hover:scale-105 hover:shadow-sm'

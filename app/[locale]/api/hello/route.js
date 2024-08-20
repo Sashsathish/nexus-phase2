@@ -1,3 +1,3 @@
 export async function GET(request) {
-  return new Response('Welcome to Boxode Corporation!')
+  return new Response('Welcome to nexus Corporation!')
 }

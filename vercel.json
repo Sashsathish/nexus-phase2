@@ -7,23 +7,23 @@
   "redirects": [
 	{
 		"source": "/fb",
-		"destination": "https://www.facebook.com/BoxodeHQ"
+		"destination": "https://www.facebook.com/nexusHQ"
 	},
 	{
 		"source": "/tw",
-		"destination": "https://twitter.com/BoxodeHQ"
+		"destination": "https://twitter.com/nexus"
 	},
 	{
 		"source": "/ig",
-		"destination": "https://www.instagram.com/boxodehq/"
+		"destination": "https://www.instagram.com/nexus/"
 	},
 	{
 		"source": "/gh",
-		"destination": "https://github.com/Boxode"
+		"destination": "https://github.com/nexus"
 	},
 	{
 		"source": "/li",
-		"destination": "https://www.linkedin.com/company/boxodehq"
+		"destination": "https://www.linkedin.com/company/nexus"
 	}
   ]
 }

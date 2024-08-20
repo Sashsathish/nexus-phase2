@@ -27,14 +27,14 @@ export default async function RootLayout({ children, params: { locale } }) {
         <meta name='viewport' content='width=device-width, initial-scale=1' />
         <meta
           name='keywords'
-          content='boxode, boxode.org, boxode open source software, boxode careers, trabajos, careers, boxode oss, boxode open source, boxode software, software, software development, software development company, software development services, software development company in mexico, web development, web development company, uiux development, uiux development company, uiux development company in mexico, uiux development services, uiux development services in mexico'
+          content='nexus, nexus.org, nexus open source software, nexus careers, trabajos, careers, nexus oss, nexus open source, nexus software, software, software development, software development company, software development services, software development company in mexico, web development, web development company, uiux development, uiux development company, uiux development company in mexico, uiux development services, uiux development services in mexico'
         />
         <link
           rel='shortcut icon'
           href='/favicon/favicon.ico'
           type='image/x-icon'
         />
-        <title>Boxode - Careers</title>
+        <title>nexus - Careers</title>
         <meta
           name='description'
           content='Join our team and help us build the future of software development.'
@@ -64,21 +64,21 @@ export default async function RootLayout({ children, params: { locale } }) {
         />
         <meta name='msapplication-TileColor' content='#ffffff' />
         <meta name='theme-color' content='#ffffff' />
-        <link rel='canonical' href='https://boxode.org/careers' />
-        <meta name='apple-mobile-web-app-title' content='Boxode - Careers' />
-        <meta name='application-name' content='Boxode - Careers' />
-        <meta property='og:url' content='https://boxode.org/careers' />
+        <link rel='canonical' href='https://nexus.org/careers' />
+        <meta name='apple-mobile-web-app-title' content='nexus - Careers' />
+        <meta name='application-name' content='nexus - Careers' />
+        <meta property='og:url' content='https://nexus.org/careers' />
         <meta property='og:type' content='website' />
-        <meta property='og:title' content='Boxode - Careers' />
+        <meta property='og:title' content='nexus - Careers' />
         <meta
           property='og:description'
           content='Join our team and help us build the future of software development.'
         />
         <meta property='og:locate' content='es_MX' />
-        <meta property='og:site_name' content='Boxode' />
+        <meta property='og:site_name' content='nexus' />
         <meta name='twitter:card' content='summary_large_image' />
-        <meta name='twitter:site' content='@BoxodeHQ' />
-        <meta name='twitter:title' content='Boxode' />
+        <meta name='twitter:site' content='@nexusHQ' />
+        <meta name='twitter:title' content='nexus' />
         <meta
           name='twitter:description'
           content='Join our team and help us build the future of software development.'

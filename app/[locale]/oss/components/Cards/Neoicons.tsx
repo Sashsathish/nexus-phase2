@@ -5,7 +5,7 @@ const fetcher = (url) => fetch(url).then((res) => res.json())
 
 export default function Neoicons() {
   const { data } = useSWR(
-    'https://api.github.com/repos/Boxode/neoicons',
+    'https://api.github.com/repos/nexus/neoicons',
     fetcher
   )
   return (
@@ -43,7 +43,7 @@ export default function Neoicons() {
         </div>
         <div className='flex gap-4'>
           <a
-            href='https://github.com/Boxode/neoicons'
+            href='https://github.com/nexus/neoicons'
             target='_blank'
             rel='noopener noreferrer'
             className='duration-150 hover:scale-105 hover:shadow-sm'

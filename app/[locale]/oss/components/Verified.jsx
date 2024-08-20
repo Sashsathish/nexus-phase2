@@ -17,20 +17,20 @@ export default function Verified() {
       </p>
       <div className='flex md:justify-around flex-col md:flex-row select-none'>
         <Link
-          href='https://boxode.org/gh'
+          href='https://nexus.org/gh'
           target='_blank'
           className='flex md:items-center md:justify-center mt-4 ml-4 md:ml-0'
         >
           <Image
             className='rounded-full border border-gray-900'
-            src='/Boxode_circle_logo.png'
-            alt='Boxode'
+            src='/nexus_circle_logo.png'
+            alt='nexus'
             width={80}
             height={80}
           />
           <div className='flex ml-4 flex-col'>
             <h4 className='text-white flex font-[GilroyBold]'>
-              Boxode Corporation{' '}
+              nexus Corporation{' '}
               <Tooltip content='Verified Entity'>
                 <Image
                   className='ml-2 hover:scale-105 transition'
@@ -42,7 +42,7 @@ export default function Verified() {
               </Tooltip>
             </h4>
             <p className='text-gray-400 text-sm font-[GilroyRegular]'>
-              github.com/boxode
+              github.com/nexus
             </p>
           </div>
         </Link>
@@ -54,7 +54,7 @@ export default function Verified() {
           <Image
             className='rounded-full border border-gray-900'
             src='/FH.png'
-            alt='Boxode'
+            alt='nexus'
             width={80}
             height={80}
           />
@@ -84,7 +84,7 @@ export default function Verified() {
           <Image
             className='rounded-full border border-gray-900 grayscale bg-[#141414]'
             src='/fdlcz-logo.png'
-            alt='Boxode'
+            alt='nexus'
             width={80}
             height={80}
           />
@@ -114,7 +114,7 @@ export default function Verified() {
           <Image
             className='rounded-full border border-gray-900 grayscale'
             src='/spartan-logo.png'
-            alt='Boxode'
+            alt='nexus'
             width={80}
             height={80}
           />
